@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd19fa5c-a3da-49bd-ac14-fbb4aa093af8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/advice/CustomizeExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/advice/CustomizeExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/cache/HotTagCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/cache/HotTagCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/cache/TagCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/cache/TagCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/AuthorizeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/AuthorizeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/CustomizeErrorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/CustomizeErrorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/NotificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/NotificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/PublishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/PublishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/AccessTokenDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/AccessTokenDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/CommentCreateDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/CommentCreateDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/CommentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/CommentDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/FileDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/FileDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/GithubUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/GithubUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/HotTagDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/HotTagDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/NotificationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/NotificationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/PaginationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/PaginationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/QuestionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/QuestionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/QuestionQueryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/QuestionQueryDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/ResultDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/ResultDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/TagDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/TagDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/AdPosEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/AdPosEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/CommentTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/CommentTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/NotificationStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/NotificationStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/NotificationTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/NotificationTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/SortEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/enums/SortEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/exception/CustomizeErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/exception/CustomizeErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/exception/CustomizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/exception/CustomizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/exception/ICustomizeErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/exception/ICustomizeErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/interceptor/SessionInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/interceptor/SessionInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/interceptor/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/interceptor/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/mapper/AdMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/mapper/AdMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/mapper/NotificationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/mapper/NotificationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/provider/GithubProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/provider/GithubProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/provider/UCloudProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/provider/UCloudProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/schedule/HotTagTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/schedule/HotTagTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/AdService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/AdService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/NavService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/NavService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/navigation.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="community" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="community" type="feb32156:DbDataSourceImpl" />
+        <item name="COMMUNITY: database" type="2aa06773:H2ImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="community" type="feb32156:DbDataSourceImpl" />
+        <item name="COMMUNITY: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="community" type="feb32156:DbDataSourceImpl" />
+        <item name="COMMUNITY: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="community" type="feb32156:DbDataSourceImpl" />
+        <item name="COMMUNITY: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1beToDonLFWKPbOmqd5KDO8NBGY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\community\src\main\resources\static\images" />
+      <recent name="F:\code\community\src\main\resources\static\images\logos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="community" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="life.majiang.community.CommunityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd19fa5c-a3da-49bd-ac14-fbb4aa093af8" name="Default Changelist" comment="" />
+      <created>1588991731705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588991731705</updated>
+      <workItem from="1588991764739" duration="17702000" />
+      <workItem from="1589038392230" duration="4309000" />
+      <workItem from="1589171604683" duration="1850000" />
+      <workItem from="1589356795640" duration="1260000" />
+      <workItem from="1589358148546" duration="2520000" />
+      <workItem from="1589361829589" duration="1765000" />
+      <workItem from="1589446055142" duration="5076000" />
+      <workItem from="1589523278506" duration="3820000" />
+      <workItem from="1589588942341" duration="4321000" />
+      <workItem from="1589680791909" duration="12035000" />
+      <workItem from="1589760465997" duration="23947000" />
+      <workItem from="1589849222521" duration="15983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589045266036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589045266036" />
+    <state x="552" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588997384897" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1589028778079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589028778079" />
+    <state x="443" y="229" width="479" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589362138224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="229" width="479" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1589362138224" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589358821688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589358821688" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589358474937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589358474937" />
+    <state x="129" y="54" key="DiffContextDialog" timestamp="1589358468129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1589358468129" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1589357327939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589357327939" />
+    <state width="1322" height="2" key="GridCell.Tab.0.bottom" timestamp="1589879774482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589879774482" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303486" />
+    <state width="1322" height="2" key="GridCell.Tab.0.center" timestamp="1589879774482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589879774482" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303485" />
+    <state width="1322" height="2" key="GridCell.Tab.0.left" timestamp="1589879774482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589879774482" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303485" />
+    <state width="1322" height="2" key="GridCell.Tab.0.right" timestamp="1589879774482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589879774482" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303485" />
+    <state width="1322" height="2" key="GridCell.Tab.1.bottom" timestamp="1589879774483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589879774483" />
+    <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303486" />
+    <state width="1322" height="2" key="GridCell.Tab.1.center" timestamp="1589879774483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589879774483" />
+    <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303486" />
+    <state width="1322" height="2" key="GridCell.Tab.1.left" timestamp="1589879774482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589879774482" />
+    <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303486" />
+    <state width="1322" height="2" key="GridCell.Tab.1.right" timestamp="1589879774483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589879774483" />
+    <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589037303486" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1589044052096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1589044052096" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589358672560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589358672560" />
+    <state x="803" y="290" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1589033108344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="290" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589033108344" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589855288042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589855288042" />
+  </component>
+</project>
